@@ -8,3 +8,6 @@
 <img width="930" height="736" alt="Captura de tela 2026-01-12 013412" src="https://github.com/user-attachments/assets/8b3f2231-94bb-4ecb-acd8-7d5359d1a12a" />
 
 <img width="1049" height="738" alt="Captura de tela 2026-01-12 013444" src="https://github.com/user-attachments/assets/1f820843-1b73-40cc-8a95-f5078155363a" />
+
+
+<img width="986" height="720" alt="image" src="https://github.com/user-attachments/assets/680ff5c1-36f0-4981-9cd9-8d3452df56ea" />
